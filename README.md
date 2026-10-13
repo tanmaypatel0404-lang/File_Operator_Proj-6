@@ -407,6 +407,17 @@ The application can be extended with additional features to improve its function
 - 🔎 **Improved Search:** Search entries using multiple keywords and more flexible matching.
 
 These improvements could turn the basic console application into a more advanced personal journaling system.
+---
+
+## 👨‍💻 Video Explaination
+
+
+
+
+https://github.com/user-attachments/assets/2fd9b5b6-acb1-4f13-add4-76f080da93ce
+
+
+
 
 ---
 
