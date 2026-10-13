@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/e24a53b6-04d9-4a72-b5be-b1b18cb9adf1
+
 # 📔 Personal Journal Manager
 
 ### 🐍 A Python-Based Personal Journal Application
